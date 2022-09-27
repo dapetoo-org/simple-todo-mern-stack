@@ -52,14 +52,23 @@ npx create-react-app client
 
 #### Steps to run the app
 Make sure port 5000 and 3000 is open to allow connection.
-Run npm install concurrently --save-dev to be able to run both the client and server side project at once(concurrently)
-Run npm run dev for development and npm run build for production use case
+Run to be able to run both the client and server side project at once(concurrently)
+```
+npm install concurrently --save-dev 
+```
+```
+npm run dev -- for development and 
+npm run build for production use case
+```
+
 The backend will establish connection with the database and the frontend site will be served on http://IP-ADDRESS:3000
 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Security Rule](https://github.com/scholarship-task/simple-todo-mern-stack/blob/main/screenshots/todo-security-group.png)
+
+
 
 
 ## 🛠 Skills
