@@ -91,5 +91,5 @@ OR
 ## Demo
 
 
-![App Screenshot](https://github.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/scholarship-task/simple-todo-mern-stack/blob/main/screenshots/todo-ui.png)
 
